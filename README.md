@@ -10,8 +10,8 @@ Este repositorio contiene la solución práctica para el componente inicial del 
 *   **Alulema Chato Sandra Jasmin**   (README / GITHUB ) - *[SandraAlulemalk]*
 *   **Ortiz Mosquera Valeria Valentina** (Informe de Grupo / Código en Java) - *[valentinaortiz16]*
 *   **Guaman Sagñay Joselyn Maribel** ( Objetivos / Conclusión) - *[joselyng07]*
-*   **Integrante 4** (Desarrollador / QA Tester) - *[Usuario de GitHub]**
-*   **Integrante 5** (EVIDENCIA DE GITHUB / OBJETIVOS) - *[Andyyyxx27]*
+*   **Armas Jaya Anthony Daniel** (Desarrollador / QA Tester) - *[Anthony-GTX]**
+*   **Integrant** (EVIDENCIA DE GITHUB / OBJETIVOS) - *[Andyyyxx27]*
 
 
 ---
