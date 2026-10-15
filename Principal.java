@@ -1,8 +1,8 @@
-/**
+//**
  * Clase Principal.
  * Contiene el método main, desde donde se crean y se llenan los objetos
  * de tipo Estudiante que forman parte del sistema de registro académico.
- */
+ *//
 public class Principal {
     public static void main(String[] args) {
 // Se declara un arreglo con espacio para guardar 3 estudiantes
