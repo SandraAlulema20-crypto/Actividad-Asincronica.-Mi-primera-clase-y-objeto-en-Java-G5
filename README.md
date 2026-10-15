@@ -7,11 +7,11 @@ Este repositorio contiene la solución práctica para el componente inicial del 
 ---
 
 ## 👥 Integrantes del Grupo
-*   **Integrante 1** (Desarrollador / Scrum Master) - *S*
-*   **Integrante 2** (Desarrollador / Git Master) - *[Usuario de GitHub]*
+*   **Integrante 1** README  (Desarrollador / Git Master) - *[SandraAlulemalk]*
+*   **Integrante 2** (Desarrollador / Git Master) - *[]*
 *   **Integrante 3** (Desarrollador / QA Tester) - *[Usuario de GitHub]*
-*   **Integrante 3** (Desarrollador / QA Tester) - *[Usuario de GitHub]**
-*   **Integrante 3** (Desarrollador / QA Tester) - *[Usuario de GitHub]*
+*   **Integrante 4** (Desarrollador / QA Tester) - *[Usuario de GitHub]**
+*   **Integrante 5** (Desarrollador / QA Tester) - *[Andyyyxx27]*
 
 
 ---
