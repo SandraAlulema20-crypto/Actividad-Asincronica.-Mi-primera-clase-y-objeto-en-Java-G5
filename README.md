@@ -11,7 +11,7 @@ Este repositorio contiene la solución práctica para el componente inicial del 
 *   **Ortiz Mosquera Valeria Valentina** (Informe de Grupo / Código en Java) - *[valentinaortiz16]*
 *   **Guaman Sagñay Joselyn Maribel** ( Objetivos / Conclusión) - *[joselyng07]*
 *   **Armas Jaya Anthony Daniel** (Desarrollador / QA Tester) - *[Anthony-GTX]**
-*   Andrés Gabriel Vayas Masache  (Evidencia de github / Objetivos) - *[Andyyyxx27]*
+*   **Andrés Gabriel Vayas Masache**  (Evidencia de github / Objetivos) - *[Andyyyxx27]*
 
 
 ---
