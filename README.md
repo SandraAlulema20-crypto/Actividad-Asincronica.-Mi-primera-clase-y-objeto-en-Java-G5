@@ -8,7 +8,7 @@ Este repositorio contiene la solución práctica para el componente inicial del 
 
 ## 👥 Integrantes del Grupo
 *   **Integrante 1** README  (Desarrollador / Git Master) - *[SandraAlulemalk]*
-*   **Integrante 2** (Desarrollador / Git Master) - *[]*
+*   **Ortiz Mosquera Valeria Valentina** (Informe de Grupo / Código en Java) - *[valentinaortiz16]*
 *   **Integrante 3** (Desarrollador / QA Tester) - *[Usuario de GitHub]*
 *   **Integrante 4** (Desarrollador / QA Tester) - *[Usuario de GitHub]**
 *   **Integrante 5** (Desarrollador / QA Tester) - *[Andyyyxx27]*
