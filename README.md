@@ -7,9 +7,9 @@ Este repositorio contiene la solución práctica para el componente inicial del 
 ---
 
 ## 👥 Integrantes del Grupo
-*   **Integrante 1**   (README / GITHUB ) - *[SandraAlulemalk]*
+*   **Alulema Chato Sandra Jasmin**   (README / GITHUB ) - *[SandraAlulemalk]*
 *   **Ortiz Mosquera Valeria Valentina** (Informe de Grupo / Código en Java) - *[valentinaortiz16]*
-*   **Integrante 3** (Desarrollador / QA Tester) - *[Usuario de GitHub]*
+*   **Guaman Sagñay Joselyn Maribel** ( Objetivos / Conclusión) - *[joselyng07]*
 *   **Integrante 4** (Desarrollador / QA Tester) - *[Usuario de GitHub]**
 *   **Integrante 5** (EVIDENCIA DE GITHUB / OBJETIVOS) - *[Andyyyxx27]*
 
