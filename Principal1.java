@@ -1,4 +1,4 @@
-/**
+//**
  * Clase Principal.
  * Contiene el método main, desde donde se crean y se llenan los objetos
  * de tipo Estudiante que forman parte del sistema de registro académico.
